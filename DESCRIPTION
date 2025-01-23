@@ -1,0 +1,16 @@
+Package: BUPT.PRML
+Type: Package
+Title: Some useful functions for Pattern Recognition and Machine Learning at Beijing University of Posts and Telecommunications
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Xinbo", "Ai",
+      email = "axb@bupt.edu.cn",
+      role = c("aut", "cre")
+    )
+  )
+Description: Some useful functions for Pattern Recognition and Machine Learning at Beijing University of Posts and Telecommunications.
+License: MIT license
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
